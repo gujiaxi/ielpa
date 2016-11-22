@@ -1,12 +1,12 @@
 (1
  (powerline .
-            [nil
+            [(20161121 2320)
             ((cl-lib (0 2)))
             "Rewrite of Powerline" tar
             ((:url . "https://github.com/gujiaxi/powerline/")
              (:keywords "mode-line"))])
  (solarized-theme .
-                  [nil
+                  [(20161009 838)
                   ((emacs (24 1)) (cl-lib (0 5)) (dash (2 6 0)))
                   "The Solarized color theme, ported to Emacs." tar
                   ((:url . "https://github.com/gujiaxi/solarized-emacs/")
