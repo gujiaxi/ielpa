@@ -1,6 +1,0 @@
-[submodule "solarized-emacs"]
-	path = solarized-emacs
-	url = https://github.com/gujiaxi/solarized-emacs.git
-[submodule "powerline"]
-	path = powerline
-	url = https://github.com/gujiaxi/powerline.git
